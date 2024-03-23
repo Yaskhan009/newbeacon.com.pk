@@ -1,9 +1,5 @@
 /*
 
-TemplateMo 561 Purple Buzz
-
-https://templatemo.com/tm-561-purple-buzz
-
 ---------------------------------------------
 Table of contents
 ------------------------------------------------
@@ -40,7 +36,7 @@ p, a {font-weight: 400;}
   width: 150px;
   display:block;
   position: absolute;
-  border-bottom:  5px solid #6266ea;
+  border-bottom:  5px solid #2ab1e3;
   padding-top: .5em;
 }
 .typo-space-line-center::after {
@@ -62,7 +58,7 @@ p, a {font-weight: 400;}
 }
 #index_banner .carousel-control-prev i,
 #index_banner .carousel-control-next i {
-  color: #6266ea !important;
+  color: #2ab1e3 !important;
   text-decoration: none;
   font-size: 4em;
 }
@@ -71,7 +67,7 @@ p, a {font-weight: 400;}
 }
 #index_banner .carousel-indicators li,
 #index_banner .carousel-indicators.active {
-  background-color: #6266ea !important;
+  background-color: #2ab1e3 !important;
 }
 .service-wrapper .service-footer {
   max-width: 720px;
@@ -135,19 +131,19 @@ p, a {font-weight: 400;}
   width: 8rem;
 }
 .partner-wap {
-  background-color: #7276ec;
+  background-color: #72baec;
   transition: 1s;
   cursor: pointer;
 }
 .partner-wap:hover {
-  background-color: #b1b3f5;
+  background-color: #b1d4f5;
 }
 .why-us {
   background: rgb(239,239,253);
   background: -moz-linear-gradient(0deg, rgba(239,239,253,1) 50%, rgba(255,255,255,1) 50%);
   background: -webkit-linear-gradient(0deg, rgba(239,239,253,1) 50%, rgba(255,255,255,1) 50%);
   background: linear-gradient(0deg, rgba(239,239,253,1) 50%, rgba(255,255,255,1) 50%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#efeffd",endColorstr="#ffffff",GradientType=1);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eff4fd",endColorstr="#ffffff",GradientType=1);
 }
 .team-member-img {
   transition-duration: 0.15s;
